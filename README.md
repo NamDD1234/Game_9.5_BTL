@@ -7,6 +7,7 @@ But it's great, I got you, be it future UET students or someone else. I hope tha
 
 Thank you for taking the time to read a few lines of my confession.
 
+Note: If possible, please contact me to share the joy. I trust and am proud of you. 
 ## About the game
 
 Above is the game I used to present. It should have been on the other side, but I forgot :) (luckily the lecturer didn't notice so it was okay). I planned to upload it before the presentation but was afraid of losing points so I didn't (but I was scolded in the read_me section for editing it too late xD)
