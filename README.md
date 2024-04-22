@@ -11,3 +11,7 @@ Note: If possible, please contact me to share the joy. I trust and am proud of y
 ## About the game
 
 Above is the game I used to present. It should have been on the other side, but I forgot :) (luckily the lecturer didn't notice so it was okay). I planned to upload it before the presentation but was afraid of losing points so I didn't (but I was scolded in the read_me section for editing it too late xD)
+
+Because there are only a few changes to the assets and source code to completely resolve the texture breakage, I only uploaded these two here. For related things, see the previous repository.
+
+
